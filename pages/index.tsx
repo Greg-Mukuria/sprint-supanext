@@ -1,4 +1,5 @@
 import { Container, Heading, Text } from '@chakra-ui/react';
+import dashBoard from './dashboard';
 
 export default function Home() {
   return (
