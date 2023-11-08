@@ -4,7 +4,7 @@ import dashBoard from './dashboard';
 export default function Home() {
   return (
     <Container maxWidth="container.xl">
-      <dashBoard>
+      <dashBoard />
       <Heading>The boilerplate works!</Heading>
       <Text></Text>
     </Container>
